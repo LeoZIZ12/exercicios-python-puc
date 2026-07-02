@@ -1,0 +1,5 @@
+1;leo;66.66666666666667;Exame esepecial
+2;ana;60.0;Exame esepecial
+3;joao;46.666666666666664;Exame esepecial
+4;pedro;23.333333333333332;Reprovado
+5;chico;90.0;Aprovado

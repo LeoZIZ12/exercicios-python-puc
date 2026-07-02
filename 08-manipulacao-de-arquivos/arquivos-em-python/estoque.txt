@@ -1,0 +1,4 @@
+caneta,15
+lapis,10
+livro,0
+caderno,5
