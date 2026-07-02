@@ -1,0 +1,22 @@
+Numero=int(input("digite um numero inteiro: "))
+x1=Numero*1
+x2=Numero*2
+x3=Numero*3
+x4=Numero*4
+x5=Numero*5
+x6=Numero*6
+x7=Numero*7
+x8=Numero*8
+x9=Numero*9
+x10=Numero*10
+
+print(f"{Numero} x 1={x1}")
+print(f"{Numero} x 2={x2}")
+print(f"{Numero} x 3={x3}")
+print(f"{Numero} x 4={x4}")
+print(f"{Numero} x 5={x5}")
+print(f"{Numero} x 6={x6}")
+print(f"{Numero} x 7={x7}")
+print(f"{Numero} x 8={x8}")
+print(f"{Numero} x 9={x9}")
+print(f"{Numero} x 10={x10}")
