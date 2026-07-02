@@ -1,0 +1,10 @@
+nota1=float(input("nota1"))
+nota2=float(input("nota2"))
+nota3=float(input("nota3"))
+soma_notas=nota1+nota2+nota3
+media_notas=soma_notas/3
+media_maxima=30
+prontos_para_media_maxima=media_maxima-soma_notas
+print(soma_notas)
+print(f"{media_notas:.2f}")
+print(prontos_para_media_maxima)
